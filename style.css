@@ -2,12 +2,13 @@
 body {
     text-align: center;
     font-family: "arial";
+    background: floralwhite;
 }
 p{
     font-size: 11px;
     
 }
-#totoro{
-    width:200px;
+.pic{
+    width:500px;
     height:auto;
 }
